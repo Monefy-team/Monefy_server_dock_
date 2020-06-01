@@ -1,0 +1,37 @@
+@import 'src/ui/styles/reset';
+@import "src/ui/styles/fonts";
+@import "src/ui/styles/colors.scss";
+
+@mixin btn {
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 1px;
+  width: 80%;
+  height: 50px;
+  color: $main-brown;
+  outline: none;
+  border: 0;
+  border-radius: 5px;
+  margin: 10px auto;
+}
+
+.logo-png {
+  padding-top: 10%;
+  display: block;
+  width: auto;
+  height: 350px;
+  margin: 10px auto;
+}
+
+.btn-container {
+  display: flex;
+  flex-direction: column;
+  .to-login {
+    @include btn;
+    background: $main-red;
+  }
+  .to-registration {
+   @include btn;
+    background: $main-orange;
+  }
+}

@@ -1,0 +1,41 @@
+@import '../../styles/colors.scss';
+@import '../../styles/fonts.scss';
+@import '../../styles/reset.scss';
+
+.footer {
+    background-color: $main-orange;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding-top: 5px;
+
+    .navLink {
+        display: flex;
+        flex-direction: column;
+        text-decoration: none;
+        width: 80px;
+        color: $main-brown;
+        font-size: 16px;
+        text-align: center;
+        font-family: 'Roboto-Medium', serif;
+        span {
+            font-family: 'Roboto-Regular', serif;
+        }
+    }
+    
+    .is-active {
+        border-bottom: 5px solid $main-brown;
+    }
+    
+    .imgbar {
+        width: auto;
+        height: 40px;
+        margin: 6px auto;
+    }
+    .add-button {
+        color: $main-brown;
+    }
+}

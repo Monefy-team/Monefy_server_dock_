@@ -1,0 +1,9 @@
+D:\RiderProjects\WebAPI\WebAPI.DAL\bin\Debug\netcoreapp3.1\WebAPI.DAL.deps.json
+D:\RiderProjects\WebAPI\WebAPI.DAL\bin\Debug\netcoreapp3.1\WebAPI.DAL.dll
+D:\RiderProjects\WebAPI\WebAPI.DAL\bin\Debug\netcoreapp3.1\WebAPI.DAL.pdb
+D:\RiderProjects\WebAPI\WebAPI.DAL\obj\Debug\netcoreapp3.1\WebAPI.DAL.csprojAssemblyReference.cache
+D:\RiderProjects\WebAPI\WebAPI.DAL\obj\Debug\netcoreapp3.1\WebAPI.DAL.csproj.CoreCompileInputs.cache
+D:\RiderProjects\WebAPI\WebAPI.DAL\obj\Debug\netcoreapp3.1\WebAPI.DAL.AssemblyInfoInputs.cache
+D:\RiderProjects\WebAPI\WebAPI.DAL\obj\Debug\netcoreapp3.1\WebAPI.DAL.AssemblyInfo.cs
+D:\RiderProjects\WebAPI\WebAPI.DAL\obj\Debug\netcoreapp3.1\WebAPI.DAL.dll
+D:\RiderProjects\WebAPI\WebAPI.DAL\obj\Debug\netcoreapp3.1\WebAPI.DAL.pdb
